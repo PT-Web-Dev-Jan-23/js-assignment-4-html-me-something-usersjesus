@@ -1,1 +1,17 @@
-/* Write your CSS here! */
+#mainHeading {
+    margin: 100px 25px 25px 1100px;
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+#Badlands {
+    padding: 80px 80px;
+}
